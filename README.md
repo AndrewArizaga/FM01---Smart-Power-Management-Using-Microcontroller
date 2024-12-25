@@ -57,5 +57,3 @@ This project emphasizes:
 5. When leaving the room, ensure no occupancy to enable the **auto-off** feature.
 
 ---
-
-Feel free to suggest further improvements or request additional functionality!
