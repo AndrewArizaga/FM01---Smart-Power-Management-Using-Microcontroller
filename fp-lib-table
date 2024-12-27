@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TSOP1838")(type "KiCad")(uri "C:/Users/andre/Downloads/LIB_TSOP1838/TSOP1838/KiCad")(options "")(descr ""))
+  (lib (name "G5LE-1-DC5")(type "KiCad")(uri "C:/Users/andre/Downloads/LIB_G5LE-1-DC5/G5LE-1-DC5/KiCad")(options "")(descr ""))
+  (lib (name "ESP32-CAM")(type "KiCad")(uri "C:/Users/andre/Downloads/LIB_ESP32-CAM/ESP32-CAM/KiCad")(options "")(descr ""))
+  (lib (name "CH340G")(type "KiCad")(uri "C:/Users/andre/Downloads/CH340G")(options "")(descr ""))
+)
